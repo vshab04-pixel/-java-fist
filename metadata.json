@@ -1,0 +1,8 @@
+{
+  "name": "Java First – Student Management System",
+  "description": "A console-based Student Management System in Core Java demonstrating OOP principles, collections, validation, and persistent file storage, equipped with an interactive live console runner and project explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
